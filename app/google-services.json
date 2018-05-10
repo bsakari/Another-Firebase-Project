@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "354223339316",
+    "firebase_url": "https://juniormatatuapplication-82db0.firebaseio.com",
+    "project_id": "juniormatatuapplication-82db0",
+    "storage_bucket": "juniormatatuapplication-82db0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354223339316:android:e66f16f5539ff046",
+        "android_client_info": {
+          "package_name": "com.junior.juniormatatuapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354223339316-i7jrtdomco43rkpv9tfdkarom9rbiq42.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.junior.juniormatatuapplication",
+            "certificate_hash": "5d0593eb2df45ff743ce73de4b69893770f698cc"
+          }
+        },
+        {
+          "client_id": "354223339316-vae6463pcps4qpnesq4qhuvd5brkjb32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa_a3TS8qQE5M_dTXjooqlyFtibn16fgU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354223339316-vae6463pcps4qpnesq4qhuvd5brkjb32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
